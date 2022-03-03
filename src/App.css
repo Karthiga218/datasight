@@ -1,0 +1,41 @@
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: -webkit-fill-available;
+}
+a{
+  text-decoration: none !important;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.page-body{
+  margin: 40px;
+}
+.nav{
+  display: flex;
+}
+.tab{
+  padding: 10px;
+  background-color: white;
+  font-family: arial, sans-serif;
+  font-weight: 600;
+}
+.active{
+  background-color: #dddddd;
+  color: red;
+  text-decoration: none;
+}
+.flex{
+  display: flex;
+}
+.bg-red{
+  background-color: red;
+}

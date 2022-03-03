@@ -1,0 +1,7 @@
+const actions = {
+    GET_ALL_PROJECTMEMBERSHIP: 'GET_ALL_PROJECTMEMBERSHIP',
+    SET_ALL_PROJECTMEMBERSHIP: 'SET_ALL_PROJECTMEMBERSHIP',
+};
+  
+  export default actions;
+  

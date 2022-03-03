@@ -1,0 +1,7 @@
+const actions = {
+    GET_ALL_UNREGISTEREDUSER: 'GET_ALL_UNREGISTEREDUSER',
+    SET_ALL_UNREGISTEREDUSER: 'SET_ALL_UNREGISTEREDUSER',
+};
+  
+  export default actions;
+  
